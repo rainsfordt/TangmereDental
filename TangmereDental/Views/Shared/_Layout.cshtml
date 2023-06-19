@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TangmereDental</title>
+    <link rel="stylesheet" href="~/css/shared/layout.min.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header-holder">
+        <div class="navigation-holder">
+            <div class="logo-holder">
+                <a asp-area="" asp-controller="Home" asp-action="Index">
+                    <img class="brand-logo" src="/images/tdc-logo.png" />
+                </a>
+            </div>
+            <nav class="navigation">
+                <a class="nav-link" asp-area="" asp-controller="About" asp-action="Index">
+                    <div class="nav-item">About Us</div>
+                </a>
+                <a class="nav-link" asp-area="" asp-controller="Treatments" asp-action="Index">
+                    <div class="nav-item">Treatments</div>
+                </a>                
+                <a class="nav-link" asp-area="" asp-controller="Services" asp-action="Index">
+                    <div class="nav-item">Services</div>
+                </a>
+                <a class="nav-link" asp-area="" asp-controller="Pricing" asp-action="Index">
+                    <div class="nav-item">Pricing</div>
+                </a>
+                <a class="nav-link" asp-area="" asp-controller="Contact" asp-action="Index">
+                    <div class="nav-item">Contact us</div>
+                </a>
+            </nav>
+            <div class="profile-holder">
+                <a class="nav-link">01243 775545</a>
+                <div class="button-light">
+                    Book Appointment
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="main-holder">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - TangmereDental - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/shared/layout.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

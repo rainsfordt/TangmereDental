@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangmereDental.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TangmereDental.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\pages\\home\\home.css",
+      "PackagePath": "staticwebassets\\css\\pages\\home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\pages\\home\\home.less",
+      "PackagePath": "staticwebassets\\css\\pages\\home\\home.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\pages\\home\\home.min.css",
+      "PackagePath": "staticwebassets\\css\\pages\\home\\home.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_controls.less",
+      "PackagePath": "staticwebassets\\css\\shared\\_controls.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_variables.less",
+      "PackagePath": "staticwebassets\\css\\shared\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\layout.css",
+      "PackagePath": "staticwebassets\\css\\shared\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\layout.less",
+      "PackagePath": "staticwebassets\\css\\shared\\layout.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\layout.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\layout.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\tdc-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\tdc-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\tdc-logo.png",
+      "PackagePath": "staticwebassets\\images\\tdc-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\js\\shared\\layout.js",
+      "PackagePath": "staticwebassets\\js\\shared\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TangmereDental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TangmereDental.props",
+      "PackagePath": "build\\TangmereDental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TangmereDental.props",
+      "PackagePath": "buildMultiTargeting\\TangmereDental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TangmereDental.props",
+      "PackagePath": "buildTransitive\\TangmereDental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

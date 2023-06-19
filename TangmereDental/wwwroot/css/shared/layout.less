@@ -1,0 +1,68 @@
+﻿@import "_variables";
+@import "_controls";
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html, body {
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+    background-color: @background-dark-color;
+}
+
+.header-holder {
+    height: 100px;
+    z-index: 99;
+
+    .navigation-holder {
+        width: 90%;
+        max-width: 2000px;
+        height: 100%;
+        margin: auto;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 40px;
+        color: @brand-color;
+        font-family: @font-family;
+
+        .logo-holder {
+            height: 38px;
+            margin-right: 200px;
+
+            .brand-logo {
+                width: 152px;
+            }
+        }
+        .navigation {
+            display: flex;
+            gap: 50px;
+
+            a {
+                color: inherit;
+                text-decoration: none;
+            }
+        }
+
+        .profile-holder {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            margin-left: auto;
+        }
+    }
+}
+
+.main-holder {
+
+}
+
+
