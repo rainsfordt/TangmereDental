@@ -1,8 +1,32 @@
-﻿@import "_variables";
-@import "_controls";
+﻿@import "../../shared/_variables";
+@import "../../shared/_controls";
 
-.content {
-    max-width: 1204px;
-    margin: 0 auto;
+
+.page-header {
+    p {
+        padding-top: 30px;
+    }
+
+    h1 {
+        margin: 0px;
+        font-size: 4.5rem;
+        color: #204289;
+        font-weight: 600;
+        line-height: 1.2;
+        padding-top: 10px;
+    }
+
+    .links {
+        display: flex;
+        gap: 50px;
+        align-items: center;
+        padding-top: 20px;
+        a {
+            text-decoration: underline;
+        }
+    }
+
+    #note {
+        padding-top: 100px;
+    }
 }
-

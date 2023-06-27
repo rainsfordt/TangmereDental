@@ -2,5 +2,17 @@
   {
     "outputFile": "wwwroot/css/shared/layout.css",
     "inputFile": "wwwroot/css/shared/layout.less"
+  },
+  {
+    "outputFile": "wwwroot/css/pages/home/home.css",
+    "inputFile": "wwwroot/css/pages/home/home.less"
+  },
+  {
+    "outputFile": "wwwroot/css/shared/_controls.css",
+    "inputFile": "wwwroot/css/shared/_controls.less"
+  },
+  {
+    "outputFile": "wwwroot/css/shared/_variables.css",
+    "inputFile": "wwwroot/css/shared/_variables.less"
   }
 ]

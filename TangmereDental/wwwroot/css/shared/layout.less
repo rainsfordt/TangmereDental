@@ -1,21 +1,26 @@
 ﻿@import "_variables";
 @import "_controls";
 
-html {
-    font-size: 14px;
+* {
+    box-sizing: border-box;
+    margin: 0;
 }
 
-@media (min-width: 768px) {
-    html {
-        font-size: 16px;
-    }
-}
-
-html, body {
+body {
     position: relative;
     min-height: 100%;
     margin: 0;
     background-color: @background-dark-color;
+    font-size: 14px;
+    font-family: @font-family;
+    color: @brand-color;
+    font-weight: 500;
+}
+
+@media (min-width: 768px) {
+    body {
+        font-size: 16px;
+    }
 }
 
 .header-holder {
@@ -27,12 +32,13 @@ html, body {
         max-width: 2000px;
         height: 100%;
         margin: auto;
+        padding: 0px 20px;
         display: flex;
         justify-content: flex-start;
         align-items: center;
         gap: 40px;
         color: @brand-color;
-        font-family: @font-family;
+
 
         .logo-holder {
             height: 38px;
@@ -42,6 +48,7 @@ html, body {
                 width: 152px;
             }
         }
+
         .navigation {
             display: flex;
             gap: 50px;
@@ -62,7 +69,28 @@ html, body {
 }
 
 .main-holder {
+    .page-header {
+        height: 700px;
+    }
 
+    .row {
+        max-width: 1180px;
+        margin: auto;
+        height: 100%;
+        padding: 70px 0px 30px;
+    }
+
+    .column {
+        width: 50%;
+    }
+
+    .section-light {
+        background-color: @background-light-color;
+    }
+
+    .call-to-action {
+        color: @font-color-call-to-action;
+    }
 }
 
 

@@ -17,12 +17,28 @@
       "PackagePath": "staticwebassets\\css\\pages\\home\\home.min.css"
     },
     {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_controls.css",
+      "PackagePath": "staticwebassets\\css\\shared\\_controls.css"
+    },
+    {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_controls.less",
       "PackagePath": "staticwebassets\\css\\shared\\_controls.less"
     },
     {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_controls.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\_controls.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_variables.css",
+      "PackagePath": "staticwebassets\\css\\shared\\_variables.css"
+    },
+    {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_variables.less",
       "PackagePath": "staticwebassets\\css\\shared\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\_variables.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\_variables.min.css"
     },
     {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\css\\shared\\layout.css",
