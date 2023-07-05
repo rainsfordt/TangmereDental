@@ -133,6 +133,10 @@
   cursor: pointer;
   transition: opacity 0.3s;
 }
+.button-light:hover {
+  background-color: #204289;
+  color: white;
+}
 .button-dark {
   padding: 10px 22px;
   border-radius: 50px;
@@ -142,9 +146,14 @@
   cursor: pointer;
   transition: opacity 0.3s;
 }
+.button-dark:hover {
+  background-color: white;
+  color: #204289;
+}
 * {
   box-sizing: border-box;
   margin: 0;
+  list-style-type: none;
 }
 body {
   position: relative;
@@ -156,7 +165,12 @@ body {
   color: #204289;
   font-weight: 500;
 }
-@media (min-width: 768px) {
+@media (min-width: 2000px) {
+  body {
+    font-size: 18px;
+  }
+}
+@media (min-width: 768px) and (max-width: 2000px) {
   body {
     font-size: 16px;
   }
@@ -198,14 +212,11 @@ body {
   align-items: center;
   margin-left: auto;
 }
-.main-holder .page-header {
-  height: 700px;
-}
 .main-holder .row {
   max-width: 1180px;
   margin: auto;
-  height: 100%;
-  padding: 70px 0px 30px;
+  /*height: 100%;*/
+  padding: 70px 0px 70px;
 }
 .main-holder .column {
   width: 50%;

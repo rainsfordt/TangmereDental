@@ -14,5 +14,9 @@
   {
     "outputFile": "wwwroot/css/shared/_variables.css",
     "inputFile": "wwwroot/css/shared/_variables.less"
+  },
+  {
+    "outputFile": "wwwroot/lib/font-awesome/font-awesome.css",
+    "inputFile": "wwwroot/lib/font-awesome/font-awesome.less"
   }
 ]

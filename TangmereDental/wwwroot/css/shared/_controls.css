@@ -133,6 +133,10 @@
   cursor: pointer;
   transition: opacity 0.3s;
 }
+.button-light:hover {
+  background-color: #204289;
+  color: white;
+}
 .button-dark {
   padding: 10px 22px;
   border-radius: 50px;
@@ -141,4 +145,8 @@
   color: white;
   cursor: pointer;
   transition: opacity 0.3s;
+}
+.button-dark:hover {
+  background-color: white;
+  color: #204289;
 }

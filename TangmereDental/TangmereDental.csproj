@@ -16,6 +16,37 @@
 
   <ItemGroup>
     <None Include="compilerconfig.json" />
+    <None Include="wwwroot\lib\font-awesome\font-awesome.less" />
+    <None Include="wwwroot\lib\font-awesome\less\brands.less" />
+    <None Include="wwwroot\lib\font-awesome\less\duotone.less" />
+    <None Include="wwwroot\lib\font-awesome\less\fontawesome.less" />
+    <None Include="wwwroot\lib\font-awesome\less\light.less" />
+    <None Include="wwwroot\lib\font-awesome\less\regular.less" />
+    <None Include="wwwroot\lib\font-awesome\less\solid.less" />
+    <None Include="wwwroot\lib\font-awesome\less\v4-shims.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_animated.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_bordered-pulled.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_core.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_fixed-width.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_icons.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_larger.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_list.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_mixins.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_rotated-flipped.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_screen-reader.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_shims.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_stacked.less" />
+    <None Include="wwwroot\lib\font-awesome\less\_variables.less" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-duotone-900.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-duotone-900.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-light-300.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-light-300.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2" />
   </ItemGroup>
 
 </Project>

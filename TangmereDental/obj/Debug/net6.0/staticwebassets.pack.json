@@ -57,6 +57,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\Icon1.png",
+      "PackagePath": "staticwebassets\\images\\Icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\Icon2.png",
+      "PackagePath": "staticwebassets\\images\\Icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\Icon3.png",
+      "PackagePath": "staticwebassets\\images\\Icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\face.png",
+      "PackagePath": "staticwebassets\\images\\face.png"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\hand-dental-tool.png",
+      "PackagePath": "staticwebassets\\images\\hand-dental-tool.png"
+    },
+    {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\images\\tdc-logo.jpg",
       "PackagePath": "staticwebassets\\images\\tdc-logo.jpg"
     },
@@ -67,6 +87,198 @@
     {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\js\\shared\\layout.js",
       "PackagePath": "staticwebassets\\js\\shared\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\brands.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\duotone.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\duotone.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\light.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\light.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\regular.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\solid.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Id": "C:\\Users\\Toby\\Documents\\Github\\Projects\\TangmereDental\\TangmereDental\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
