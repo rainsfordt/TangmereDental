@@ -29,6 +29,8 @@
 
                 a {
                     text-decoration: underline;
+                    text-underline-offset: 5px;
+                    cursor: pointer;
                 }
             }
 
@@ -106,18 +108,16 @@
 
     .row {
         padding: 0;
-    }
-
-    .headline {
-        display: flex;
-        min-height: 220px;
-        border-bottom: 1px solid @divider-light-color;
 
         .box {
-            width: 33.3%;
             display: inline-flex;
+            min-height: 220px;
             align-items: center;
             justify-content: center;
+
+            ul {
+                padding-left: 15px;
+            }
 
             h2 {
                 color: @font-color-pastel-blue;
@@ -125,7 +125,6 @@
         }
     }
 }
-
 
 
 #section-mission {
@@ -149,6 +148,17 @@
 
             .links {
                 padding-top: 20px;
+            }
+
+            a {
+                text-decoration: underline;
+                text-underline-offset: 5px;
+                cursor: pointer;
+            }
+
+            img {
+                width: 340px;
+                height: 100%;
             }
         }
     }

@@ -171,6 +171,8 @@
 }
 .page-header .row .column .links a {
   text-decoration: underline;
+  text-underline-offset: 5px;
+  cursor: pointer;
 }
 .page-header .row .column #note {
   padding-top: 100px;
@@ -236,18 +238,16 @@
 #section-headline .row {
   padding: 0;
 }
-#section-headline .headline {
-  display: flex;
-  min-height: 220px;
-  border-bottom: 1px solid #d9e8f8;
-}
-#section-headline .headline .box {
-  width: 33.3%;
+#section-headline .row .box {
   display: inline-flex;
+  min-height: 220px;
   align-items: center;
   justify-content: center;
 }
-#section-headline .headline .box h2 {
+#section-headline .row .box ul {
+  padding-left: 15px;
+}
+#section-headline .row .box h2 {
   color: #b2cfef;
 }
 #section-mission {
@@ -265,4 +265,13 @@
 }
 #section-mission .row .column .links {
   padding-top: 20px;
+}
+#section-mission .row .column a {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  cursor: pointer;
+}
+#section-mission .row .column img {
+  width: 340px;
+  height: 100%;
 }

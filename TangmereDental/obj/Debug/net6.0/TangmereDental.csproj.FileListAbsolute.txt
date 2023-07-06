@@ -29,3 +29,34 @@ C:\Users\Toby\Documents\Github\Projects\TangmereDental\TangmereDental\obj\Debug\
 C:\Users\Toby\Documents\Github\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.pdb
 C:\Users\Toby\Documents\Github\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.genruntimeconfig.cache
 C:\Users\Toby\Documents\Github\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\ref\TangmereDental.dll
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\appsettings.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.staticwebassets.runtime.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.exe
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.deps.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.runtimeconfig.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.dll
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\bin\Debug\net6.0\TangmereDental.pdb
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.csproj.AssemblyReference.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.AssemblyInfoInputs.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.AssemblyInfo.cs
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.csproj.CoreCompileInputs.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.RazorAssemblyInfo.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.RazorAssemblyInfo.cs
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets\msbuild.TangmereDental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets\msbuild.build.TangmereDental.props
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TangmereDental.props
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TangmereDental.props
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\scopedcss\bundle\TangmereDental.styles.css
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\scopedcss\projectbundle\TangmereDental.bundle.scp.css
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.dll
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\refint\TangmereDental.dll
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.pdb
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\TangmereDental.genruntimeconfig.cache
+C:\Users\Toby Rainsford\Documents\GitHub\Projects\TangmereDental\TangmereDental\obj\Debug\net6.0\ref\TangmereDental.dll

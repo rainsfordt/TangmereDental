@@ -153,6 +153,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
   list-style-type: none;
 }
 body {
@@ -164,6 +165,7 @@ body {
   font-family: Poppins;
   color: #204289;
   font-weight: 500;
+  overflow-x: hidden;
 }
 @media (min-width: 2000px) {
   body {
@@ -184,16 +186,14 @@ body {
   max-width: 2000px;
   height: 100%;
   margin: auto;
-  padding: 0px 20px;
   display: flex;
-  justify-content: flex-start;
   align-items: center;
-  gap: 40px;
   color: #204289;
+  justify-content: space-between;
 }
 .header-holder .navigation-holder .logo-holder {
   height: 38px;
-  margin-right: 200px;
+  width: 20%;
 }
 .header-holder .navigation-holder .logo-holder .brand-logo {
   width: 152px;
@@ -201,6 +201,7 @@ body {
 .header-holder .navigation-holder .navigation {
   display: flex;
   gap: 50px;
+  width: 60%;
 }
 .header-holder .navigation-holder .navigation a {
   color: inherit;
@@ -210,13 +211,16 @@ body {
   display: flex;
   gap: 20px;
   align-items: center;
-  margin-left: auto;
+  width: 20%;
+  min-width: 377px;
 }
 .main-holder .row {
   max-width: 1180px;
   margin: auto;
   /*height: 100%;*/
   padding: 70px 0px 70px;
+  display: flex;
+  justify-content: space-between;
 }
 .main-holder .column {
   width: 50%;
@@ -226,4 +230,15 @@ body {
 }
 .main-holder .call-to-action {
   color: #88d8f7;
+}
+.main-holder hr {
+  max-width: 1180px;
+  margin: auto;
+  border: 0;
+  height: 1px;
+  background: #d9e8f8;
+  /* this sets the color */
+}
+.main-holder .text-center {
+  text-align: center;
 }
