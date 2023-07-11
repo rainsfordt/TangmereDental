@@ -218,7 +218,7 @@ body {
   max-width: 1180px;
   margin: auto;
   /*height: 100%;*/
-  padding: 70px 0px 70px;
+  padding: 70px 0px 100px;
   display: flex;
   justify-content: space-between;
 }
@@ -241,4 +241,7 @@ body {
 }
 .main-holder .text-center {
   text-align: center;
+}
+.main-holder .text-right {
+  text-align: right;
 }
