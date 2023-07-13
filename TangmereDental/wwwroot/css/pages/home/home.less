@@ -3,7 +3,6 @@
 
 
 .page-header {
-    position: relative;
 
     .row {
 
@@ -37,6 +36,11 @@
             #note {
                 padding-top: 100px;
             }
+        }
+
+        #face {
+            display: grid;
+            place-items: center;
 
             .dot1 {
                 height: 21vw;
@@ -48,8 +52,6 @@
                 background-color: #ffe8da;
                 border-radius: 50%;
                 position: absolute;
-                right: 23vw;
-                bottom: -60px;
             }
 
             .img-face {
@@ -59,9 +61,8 @@
                 min-height: 450px;
                 max-width: 475px;
                 max-height: 550px;
-                position: absolute;
-                right: 23vw;
-                bottom: 0;
+                position: relative;
+                bottom: -135px;
             }
         }
     }

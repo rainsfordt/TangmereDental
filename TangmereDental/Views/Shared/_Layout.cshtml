@@ -5,38 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - TangmereDental</title>
     <link href="~/lib/font-awesome/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/css/shared/layout.min.css" asp-append-version="true" />
-    <script src="~/js/shared/layout.js"></script>
 </head>
-<body>
-    <header class="header-holder">
-        <div class="navigation-holder">
-            <div class="logo-holder">
-                <a asp-area="" asp-controller="Home" asp-action="Index">
-                    <img class="brand-logo" src="/images/tdc-logo.png" />
-                </a>
-            </div>
-            <nav class="navigation">
-                <a class="nav-link" asp-area="" asp-controller="About" asp-action="Index">
-                    <div class="nav-item">About Us</div>
-                </a>
-                <a class="nav-link" asp-area="" asp-controller="Treatments" asp-action="Index">
-                    <div class="nav-item">Treatments</div>
-                </a>                
-                <a class="nav-link" asp-area="" asp-controller="Services" asp-action="Index">
-                    <div class="nav-item">Services</div>
-                </a>
-                <a class="nav-link" asp-area="" asp-controller="Pricing" asp-action="Index">
-                    <div class="nav-item">Pricing</div>
-                </a>
-                <a class="nav-link" asp-area="" asp-controller="Contact" asp-action="Index">
-                    <div class="nav-item">Contact us</div>
-                </a>
-            </nav>
-            <div class="profile-holder">
-                <a class="nav-link"><i class="fas fa-phone-alt"></i> 01243 775545</a>
-                <div class="button-light">
-                    Book Appointment
+<body class="container-fluid">
+    <header class="header-holder row">
+        <div class="col-12">
+            <div class="navigation-holder">
+                <div class="logo-holder">
+                    <a asp-area="" asp-controller="Home" asp-action="Index">
+                        <img class="brand-logo" src="/images/tdc-logo.png" />
+                    </a>
+                </div>
+                <nav class="navigation">
+                    <a class="nav-link" asp-area="" asp-controller="About" asp-action="Index">
+                        <div class="nav-item">About Us</div>
+                    </a>
+                    <a class="nav-link" asp-area="" asp-controller="Treatments" asp-action="Index">
+                        <div class="nav-item">Treatments</div>
+                    </a>
+                    <a class="nav-link" asp-area="" asp-controller="Services" asp-action="Index">
+                        <div class="nav-item">Services</div>
+                    </a>
+                    <a class="nav-link" asp-area="" asp-controller="Pricing" asp-action="Index">
+                        <div class="nav-item">Pricing</div>
+                    </a>
+                    <a class="nav-link" asp-area="" asp-controller="Contact" asp-action="Index">
+                        <div class="nav-item">Contact us</div>
+                    </a>
+                </nav>
+                <div class="profile-holder">
+                    <a class="nav-link"><i class="fas fa-phone-alt"></i> 01243 775545</a>
+                    <div class="button-light">
+                        Book Appointment
+                    </div>
                 </div>
             </div>
         </div>

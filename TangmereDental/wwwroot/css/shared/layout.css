@@ -209,21 +209,14 @@ body {
 }
 .header-holder .navigation-holder .profile-holder {
   display: flex;
+  justify-content: flex-end;
   gap: 20px;
   align-items: center;
   width: 20%;
   min-width: 377px;
 }
 .main-holder .row {
-  max-width: 1180px;
-  margin: auto;
-  /*height: 100%;*/
-  padding: 70px 0px 100px;
-  display: flex;
-  justify-content: space-between;
-}
-.main-holder .column {
-  width: 50%;
+  padding: 3rem 0px 5rem;
 }
 .main-holder .section-light {
   background-color: #ffffff;

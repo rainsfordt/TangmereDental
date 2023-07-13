@@ -16,6 +16,9 @@
 
   <ItemGroup>
     <None Include="compilerconfig.json" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
     <None Include="wwwroot\lib\font-awesome\font-awesome.less" />
     <None Include="wwwroot\lib\font-awesome\less\brands.less" />
     <None Include="wwwroot\lib\font-awesome\less\duotone.less" />

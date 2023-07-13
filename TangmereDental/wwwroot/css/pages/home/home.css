@@ -150,9 +150,6 @@
   background-color: white;
   color: #204289;
 }
-.page-header {
-  position: relative;
-}
 .page-header .row .column p {
   padding-top: 30px;
 }
@@ -177,7 +174,11 @@
 .page-header .row .column #note {
   padding-top: 100px;
 }
-.page-header .row .column .dot1 {
+.page-header .row #face {
+  display: grid;
+  place-items: center;
+}
+.page-header .row #face .dot1 {
   height: 21vw;
   width: 21vw;
   min-height: 425px;
@@ -187,19 +188,16 @@
   background-color: #ffe8da;
   border-radius: 50%;
   position: absolute;
-  right: 23vw;
-  bottom: -60px;
 }
-.page-header .row .column .img-face {
+.page-header .row #face .img-face {
   width: 17.5vw;
   height: 23vw;
   min-width: 375px;
   min-height: 450px;
   max-width: 475px;
   max-height: 550px;
-  position: absolute;
-  right: 23vw;
-  bottom: 0;
+  position: relative;
+  bottom: -135px;
 }
 .page-header .dot2 {
   height: 21vw;
